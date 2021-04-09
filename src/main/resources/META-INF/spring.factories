@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.layton.encrypt.starter.autoconfig.EncryptAutoConfiguration
